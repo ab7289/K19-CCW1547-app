@@ -16,7 +16,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_peerreview</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>test</short_description>
+        <short_description>fake publish</short_description>
         <source>x_snc_peerreview</source>
         <store_correlation_id/>
         <store_url/>
@@ -25,9 +25,9 @@
         <sys_created_by>brian.griffith</sys_created_by>
         <sys_created_on>2019-04-28 23:35:45</sys_created_on>
         <sys_id>ac9b1f92db817b00d449f78eaf9619f9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-23 17:11:41</sys_updated_on>
+        <sys_updated_on>2020-08-23 17:15:16</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
