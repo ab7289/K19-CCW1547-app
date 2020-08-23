@@ -8,6 +8,7 @@
         <internal>false</internal>
         <public>false</public>
         <roles/>
+        <seo_script/>
         <short_description/>
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>brian.griffith</sys_created_by>
@@ -22,6 +23,7 @@
         <sys_updated_by>brian.griffith</sys_updated_by>
         <sys_updated_on>2019-04-29 07:35:19</sys_updated_on>
         <title>Peer Index</title>
+        <use_seo_script>false</use_seo_script>
     </sp_page>
     <sys_translated_text action="delete_multiple" query="documentkey=715989a2dbc57b00d449f78eaf961965"/>
 </record_update>

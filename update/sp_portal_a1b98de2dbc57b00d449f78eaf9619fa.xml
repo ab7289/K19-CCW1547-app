@@ -2,6 +2,7 @@
     <sp_portal action="INSERT_OR_UPDATE">
         <css_variables/>
         <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
         <homepage display_value="peer_index">715989a2dbc57b00d449f78eaf961965</homepage>
         <icon/>
         <kb_knowledge_base/>
@@ -30,6 +31,7 @@
         <sys_updated_on>2019-04-29 07:37:27</sys_updated_on>
         <theme display_value="Peer Review">eba881a2dbc57b00d449f78eaf9619d6</theme>
         <title>Peer Review</title>
+        <ts_index_group/>
         <url_suffix>peer</url_suffix>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=a1b98de2dbc57b00d449f78eaf9619fa"/>
