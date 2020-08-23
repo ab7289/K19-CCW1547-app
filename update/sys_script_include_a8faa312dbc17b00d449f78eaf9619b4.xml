@@ -3,6 +3,7 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_snc_peerreview.Base</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>Base class for utilities and CRUD operations related to the Peer Review application.</description>
         <name>Base</name>
